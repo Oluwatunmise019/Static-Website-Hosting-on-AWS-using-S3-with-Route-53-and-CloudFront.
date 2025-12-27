@@ -1,0 +1,2 @@
+# Static-Website-Hosting-on-AWS-using-S3-with-Route-53-and-CloudFront.
+This project demonstrates how to deploy a production-style static website on AWS using Amazon S3, CloudFront, and Route 53, with HTTPS enabled via AWS Certificate Manager (ACM).  The goal was to move beyond theory by building a real, publicly accessible portfolio website that is fast, secure, scalable, and cost-efficient—without managing servers.
